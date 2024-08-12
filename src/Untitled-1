@@ -1,0 +1,26 @@
+######################
+## draw.io compatible CSV.
+##    to import, visit draw.io and goto: Arrange -> Insert -> Advanced -> CSV ... 
+##
+##
+## GENERATOR: https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor
+######################
+# label: %label%
+# parentstyle: swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=%fill%;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=#000000;arcSize=20;
+# style: shape=%type%;html=1;fillColor=%fill%;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=10;align=left;%override%
+# namespace: sva-1723294960707
+# width: auto
+# height: auto
+# ignore: id,shape,fill,stroke,refs
+# identity: id
+# parent: rparent
+## padding: 40
+## nodespacing: 40
+## levelspacing: 40
+## edgespacing: 40
+## layout: horizontalflow
+# connect: {"from": "refs", "to": "id", "style": "curved=1;fontSize=11;noEdgeStyle=1;strokeColor=#6666FF;dashed=1;dashPattern=1 4;"}
+# connect: {"from": "calls", "to": "id", "style": "curved=1;fontSize=11;noEdgeStyle=1;strokeColor=#6666FF;dashed=0;dashPattern=1 4;"}
+## CSV data starts below this line
+## id,rparent,label, type, fill, override, refs
+id,rparent,label,type,fill,override,refs
